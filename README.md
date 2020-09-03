@@ -1,3 +1,10 @@
+## Server Side rendring demo
+To start:
+### 'yarn run dev'
+
+To build:
+### 'yarn run build-server'
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
